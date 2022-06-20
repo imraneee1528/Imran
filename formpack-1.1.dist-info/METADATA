@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: formpack
+Version: 1.1
+Summary: Manipulation tools for kobocat forms
+Home-page: https://github.com/kobotoolbox/formpack/
+Author: Alex Dorey
+Author-email: alex.dorey@kobotoolbox.org
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: begins (==0.9)
+Requires-Dist: lxml (==2.3.4)
+Requires-Dist: pyquery (==1.2.11)
+Requires-Dist: pyxform (==0.9.22)
+Requires-Dist: cyordereddict (==1.0.0)
+Requires-Dist: PyExcelerate (==0.6.7)
+Requires-Dist: path.py (==8.1.2)
+Requires-Dist: statistics (==1.0.3.5)
+Provides-Extra: dev
+Requires-Dist: coverage (==4.0.3); extra == 'dev'
+Requires-Dist: nose (==1.3.7); extra == 'dev'
+Requires-Dist: tox (==2.3.1); extra == 'dev'
+Requires-Dist: flake8 (==2.5.4); extra == 'dev'
+
+UNKNOWN
+
+
